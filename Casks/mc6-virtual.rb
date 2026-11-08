@@ -1,7 +1,7 @@
 # The Homebrew cask for the ivnvxd/tap tap. The release workflow fills in the version and the checksum.
 cask "mc6-virtual" do
-  version "0.1.0"
-  sha256 "70b0414494d47b8b38c0eaf1fc50bb314a6538000538e2ce902c682cc0053c0a"
+  version "0.2.0"
+  sha256 "cfc73047c57d82f1150a1cffab634979f936a4e1b9b6f72e5056f40a9c7ece47"
 
   url "https://github.com/ivnvxd/mc6-virtual/releases/download/v#{version}/MC6-Virtual-#{version}.zip"
   name "MC6 Virtual"
